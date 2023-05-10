@@ -1,0 +1,7 @@
+Course program: 
+base theory,
+clientserverarch,
+APItesting,
+mobiletesting,
+SQL
+
